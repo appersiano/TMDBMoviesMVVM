@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="activity_moviedetail_title">Movie Details</string>
+    <string name="url_image_baseurl" translatable="false">http://image.tmdb.org/t/p/</string>
+    <string name="backdrop_image">Backdrop Image</string>
+    <string name="offline_toast_message">You are offline</string>
+</resources>
